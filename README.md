@@ -168,7 +168,7 @@ If you want a fuller public backend portfolio around this checklist:
 
 - [`system-design-checklist`](https://github.com/happysnaker/system-design-checklist) — practical framework for interviews, design reviews, and architecture tradeoffs
 - [`go-service-starter`](https://github.com/happysnaker/go-service-starter) — minimal production-minded Go HTTP service starter
-- [`Resume`](https://github.com/happysnaker/Resume) — developer résumé / portfolio template
+- [`CSAPPLabsAndNotes`](https://github.com/happysnaker/CSAPPLabsAndNotes) — systems-learning notes covering CS:APP labs, memory, binaries, shells, and proxies
 
 ---
 
@@ -179,7 +179,8 @@ Suggestions and improvements are welcome.
 If you'd like to support my open-source work, you can do so here:
 
 - [Support page](https://happysnaker.github.io/support/)
-- Lightweight async feedback on a public GitHub profile / README / resume site is also available there (`¥99` / `¥199`)
+- WeChat Pay / Alipay support options are listed there
+- Details for lightweight async feedback on a public GitHub profile or README are also listed there
 
 If this checklist helped your interview prep, onboarding plan, or self-review, small support helps me keep expanding these public backend resources.
 
