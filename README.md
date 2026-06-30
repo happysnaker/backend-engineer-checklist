@@ -10,7 +10,7 @@ This repository is designed to be useful for:
 - team skill mapping
 - personal growth reviews
 
-If you find it useful, please **star the repo** and share it.
+If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/).
 
 ---
 
@@ -153,6 +153,16 @@ If you are early in backend engineering, a useful order is:
 
 ---
 
+## Related repos
+
+If you want a fuller public backend portfolio around this checklist:
+
+- [`system-design-checklist`](https://github.com/happysnaker/system-design-checklist) — practical framework for interviews, design reviews, and architecture tradeoffs
+- [`go-service-starter`](https://github.com/happysnaker/go-service-starter) — minimal production-minded Go HTTP service starter
+- [`Resume`](https://github.com/happysnaker/Resume) — developer résumé / portfolio template
+
+---
+
 ## Contribution
 
 Suggestions and improvements are welcome.
@@ -160,6 +170,8 @@ Suggestions and improvements are welcome.
 If you'd like to support my open-source work, you can do so here:
 
 - [Support page](https://happysnaker.github.io/support/)
+
+If this checklist helped your interview prep, onboarding plan, or self-review, small support helps me keep expanding these public backend resources.
 
 ## License
 
