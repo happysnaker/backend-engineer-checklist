@@ -157,9 +157,9 @@ If you are early in backend engineering, a useful order is:
 
 Suggestions and improvements are welcome.
 
-If you'd like to support my open-source work, you can do so from my GitHub profile:
+If you'd like to support my open-source work, you can do so here:
 
-- [Support my work](https://github.com/happysnaker#support-my-open-source-work)
+- [Support page](https://happysnaker.github.io/support/)
 
 ## License
 
