@@ -170,6 +170,7 @@ Suggestions and improvements are welcome.
 If you'd like to support my open-source work, you can do so here:
 
 - [Support page](https://happysnaker.github.io/support/)
+- Lightweight async feedback on a public GitHub profile / README / resume site is also available there (`¥99` / `¥199`)
 
 If this checklist helped your interview prep, onboarding plan, or self-review, small support helps me keep expanding these public backend resources.
 
