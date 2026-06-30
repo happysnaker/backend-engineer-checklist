@@ -2,6 +2,9 @@
 
 A practical checklist for backend engineers who want to build stronger fundamentals in **Go**, **Java**, **distributed systems**, **databases**, **networking**, **observability**, and **engineering delivery**.
 
+[![Stars](https://img.shields.io/github/stars/happysnaker/backend-engineer-checklist?style=social)](https://github.com/happysnaker/backend-engineer-checklist/stargazers)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+
 This repository is designed to be useful for:
 
 - self-study
@@ -9,6 +12,12 @@ This repository is designed to be useful for:
 - onboarding plans
 - team skill mapping
 - personal growth reviews
+
+## Why people star / share this repo
+
+- it is concise enough to use as a real weekly checklist
+- it covers backend, systems, databases, networking, and delivery together
+- it works for interviews, onboarding, and self-review instead of only one scenario
 
 If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/).
 
