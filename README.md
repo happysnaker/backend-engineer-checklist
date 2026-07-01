@@ -184,6 +184,12 @@ If you'd like to support my open-source work, you can do so here:
 
 If this checklist helped your interview prep, onboarding plan, or self-review, small support helps me keep expanding these public backend resources.
 
+Common support fit:
+
+- **¥9.9** — if this checklist helped you identify one blind spot
+- **¥19.9** — if it helped your interview prep or onboarding roadmap
+- **¥99** — if you want async feedback on your public GitHub profile / README packaging
+
 ## License
 
 MIT
