@@ -162,6 +162,17 @@ If you are early in backend engineering, a useful order is:
 
 ---
 
+## Quick weekly use
+
+A simple way to use this repo without overthinking it:
+
+1. pick 3 unchecked items
+2. turn each one into a tiny reading / coding / note-taking task
+3. make at least one item visible in public work (repo, note, demo, or OSS fix)
+4. repeat weekly instead of treating this as a one-time read
+
+---
+
 ## Related repos
 
 If you want a fuller public backend portfolio around this checklist:
