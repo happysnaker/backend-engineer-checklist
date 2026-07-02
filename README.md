@@ -203,6 +203,7 @@ Suggestions and improvements are welcome.
 If you'd like to support my open-source work, you can do so here:
 
 - [Support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
+- [Shortest support thread](https://github.com/happysnaker/backend-engineer-checklist/discussions/1)
 - WeChat Pay / Alipay support options are listed there
 - Details for lightweight async feedback on a public GitHub profile or README are also listed there
 
