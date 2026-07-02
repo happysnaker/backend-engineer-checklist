@@ -3,7 +3,7 @@
 A practical checklist for backend engineers who want to build stronger fundamentals in **Go**, **Java**, **distributed systems**, **databases**, **networking**, **observability**, and **engineering delivery**.
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/backend-engineer-checklist?style=social)](https://github.com/happysnaker/backend-engineer-checklist/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 This repository is designed to be useful for:
@@ -26,7 +26,7 @@ This repository is designed to be useful for:
 - it covers backend, systems, databases, networking, and delivery together
 - it works for interviews, onboarding, and self-review instead of only one scenario
 
-If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/).
+If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist).
 
 ---
 
@@ -196,7 +196,7 @@ Suggestions and improvements are welcome.
 
 If you'd like to support my open-source work, you can do so here:
 
-- [Support page](https://happysnaker.github.io/support/)
+- [Support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
 - WeChat Pay / Alipay support options are listed there
 - Details for lightweight async feedback on a public GitHub profile or README are also listed there
 
