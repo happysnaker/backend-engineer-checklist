@@ -18,6 +18,8 @@ This repository is designed to be useful for:
 >
 > Want the blunt version on your own GitHub / README instead of self-auditing? I offer a **¥29.9 quick read** and a **¥99 async packaging pass** on the [review page](https://happysnaker.github.io/review/).
 
+- Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
+
 ## Why people star / share this repo
 
 - it is concise enough to use as a real weekly checklist
