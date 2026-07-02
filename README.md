@@ -3,6 +3,7 @@
 A practical checklist for backend engineers who want to build stronger fundamentals in **Go**, **Java**, **distributed systems**, **databases**, **networking**, **observability**, and **engineering delivery**.
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/backend-engineer-checklist?style=social)](https://github.com/happysnaker/backend-engineer-checklist/stargazers)
+[![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/backend-engineer-checklist/generate)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/backend-engineer-checklist/)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
