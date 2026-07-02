@@ -20,6 +20,8 @@ This repository is designed to be useful for:
 > Want a copy you can adapt for your own interview prep, weekly growth plan, or team leveling rubric? Click **Use this template** on GitHub and generate your own version.
 >
 > Want the blunt version on your own GitHub / README instead of self-auditing? I offer a **¥29.9 quick read** and a **¥99 async packaging pass** on the [review page](https://happysnaker.github.io/review/).
+>
+> If you already know you want feedback back, you can start directly with the email templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attached) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attached)
 
 - Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
 
