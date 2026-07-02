@@ -204,6 +204,8 @@ Common support fit:
 
 - **¥9.9** — if this checklist helped you identify one blind spot
 - **¥19.9** — if it helped your interview prep or onboarding roadmap
+- **best payment note** — `backend-engineer-checklist`
+- **fastest path** — tip directly if the checklist helped; use **¥29.9** / **¥99** only if you want concrete edits back
 - **¥99** — if you want async feedback on your public GitHub profile / README packaging
 
 ## License
