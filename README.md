@@ -4,6 +4,7 @@ A practical checklist for backend engineers who want to build stronger fundament
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/backend-engineer-checklist?style=social)](https://github.com/happysnaker/backend-engineer-checklist/stargazers)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 This repository is designed to be useful for:
 
@@ -12,6 +13,10 @@ This repository is designed to be useful for:
 - onboarding plans
 - team skill mapping
 - personal growth reviews
+
+> Want a copy you can adapt for your own interview prep, weekly growth plan, or team leveling rubric? Click **Use this template** on GitHub and generate your own version.
+>
+> Want the blunt version on your own GitHub / README instead of self-auditing? I offer a **¥29.9 quick read** and a **¥99 async packaging pass** on the [review page](https://happysnaker.github.io/review/).
 
 ## Why people star / share this repo
 
