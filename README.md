@@ -4,9 +4,12 @@ A practical checklist for backend engineers who want to build stronger fundament
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/backend-engineer-checklist?style=social)](https://github.com/happysnaker/backend-engineer-checklist/stargazers)
 [![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/backend-engineer-checklist/generate)
+[![Flagship Repo](https://img.shields.io/badge/flagship-qq--ai--bot-62d2a2)](https://github.com/happysnaker/qq-ai-bot)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/backend-engineer-checklist/)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
+
+> Maintainer note (2026): this repo is intentionally a reusable checklist/template. If you are judging my current production-style engineering work rather than using the checklist itself, start with **[qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)**.
 
 This repository is designed to be useful for:
 
@@ -17,6 +20,7 @@ This repository is designed to be useful for:
 - personal growth reviews
 
 - Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
+- Current flagship repo: [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 
 > Want a copy you can adapt for your own interview prep, weekly growth plan, or team leveling rubric? Click **Use this template** on GitHub and generate your own version.
 >
