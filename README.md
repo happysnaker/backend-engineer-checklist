@@ -38,6 +38,8 @@ This repository is designed to be useful for:
 
 If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist).
 
+Current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager).
+
 ---
 
 ## How to use this checklist
