@@ -20,6 +20,8 @@ This repository is designed to be useful for:
 - personal growth reviews
 
 - Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
+- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
+- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 - Current flagship repo: [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 
 > Want a copy you can adapt for your own interview prep, weekly growth plan, or team leveling rubric? Click **Use this template** on GitHub and generate your own version.
@@ -27,6 +29,8 @@ This repository is designed to be useful for:
 > Want the blunt version on your own GitHub / README instead of self-auditing? I offer a **¥29.9 quick read** and a **¥99 async packaging pass** on the [review page](https://happysnaker.github.io/review/).
 >
 > If you already know you want feedback back, you can start directly with the email templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attached) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attached)
+>
+> Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
 - Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
 
@@ -39,6 +43,8 @@ This repository is designed to be useful for:
 If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist).
 
 Current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager).
+
+Sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies). Preview before paying: [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/).
 
 ---
 
