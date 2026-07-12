@@ -31,7 +31,7 @@ This repository is designed to be useful for:
 >
 > If you already know you want feedback back, you can start directly with the email templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
 >
-> Route backend profile / repo / README customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment.
+> Route backend profile / repo / README customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment. Then use the [sponsor conversion scorecard](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) to classify Hot / Warm / Nurture / No-send before asking for support or paid review.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
@@ -47,7 +47,7 @@ If you find it useful, please **star the repo**, share it, and consider supporti
 
 Current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager).
 
-Sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies). Preview before paying: [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/).
+Sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies). Preview before paying: [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/). Scorecard before asking: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md).
 
 ---
 
