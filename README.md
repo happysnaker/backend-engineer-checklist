@@ -6,9 +6,6 @@ A practical checklist for backend engineers who want to build stronger fundament
 [![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/backend-engineer-checklist/generate)
 [![Flagship Repo](https://img.shields.io/badge/flagship-qq--ai--bot-62d2a2)](https://github.com/happysnaker/qq-ai-bot)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/backend-engineer-checklist/)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
-[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
-
 > Maintainer note (2026): this repo is intentionally a reusable checklist/template. If you are judging my current production-style engineering work rather than using the checklist itself, start with **[qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)**.
 
 This repository is designed to be useful for:
@@ -20,18 +17,12 @@ This repository is designed to be useful for:
 - personal growth reviews
 
 - Project page: [happysnaker.github.io/backend-engineer-checklist](https://happysnaker.github.io/backend-engineer-checklist/)
-- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
-- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
-- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route backend profile / repo / README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
 - Current flagship repo: [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 
 > Want a copy you can adapt for your own interview prep, weekly growth plan, or team leveling rubric? Click **Use this template** on GitHub and generate your own version.
 >
-> Want the blunt version on your own GitHub / README instead of self-auditing? I offer a **¥29.9 quick read** and a **¥99 async packaging pass** on the [review page](https://happysnaker.github.io/review/).
 >
-> If you already know you want feedback back, you can start directly with the email templates: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20backend%20profile%20or%20repo%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20GitHub%20/%20README%20/%20portfolio%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
 >
-> Route backend profile / repo / README customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment. Then use the [sponsor conversion scorecard](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) to classify Hot / Warm / Nurture / No-send before asking for support or paid review.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
@@ -42,12 +33,6 @@ This repository is designed to be useful for:
 - it is concise enough to use as a real weekly checklist
 - it covers backend, systems, databases, networking, and delivery together
 - it works for interviews, onboarding, and self-review instead of only one scenario
-
-If you find it useful, please **star the repo**, share it, and consider supporting ongoing updates via the [support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist).
-
-Current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager).
-
-Sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies). Preview before paying: [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/). Scorecard before asking: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md).
 
 ---
 
@@ -215,23 +200,14 @@ If you want a fuller public backend portfolio around this checklist:
 
 Suggestions and improvements are welcome.
 
-If you'd like to support my open-source work, you can do so here:
-
-- [Support page](https://happysnaker.github.io/support/#from-backend-engineer-checklist)
 - [Shortest support thread](https://github.com/happysnaker/backend-engineer-checklist/discussions/1)
-- WeChat Pay / Alipay support options are listed there
 - Details for lightweight async feedback on a public GitHub profile or README are also listed there
 
 If this checklist helped your interview prep, onboarding plan, or self-review, small support helps me keep expanding these public backend resources.
 
 Common support fit:
 
-- **¥9.9** — if this checklist helped you identify one blind spot
-- **¥19.9** — if it helped your interview prep or onboarding roadmap
 - **best payment note** — `backend-engineer-checklist`
-- **fastest path** — tip directly if the checklist helped; use **¥29.9** / **¥99** only if you want concrete edits back
-- **¥99** — if you want async feedback on your public GitHub profile / README packaging
-
 ## License
 
 MIT
